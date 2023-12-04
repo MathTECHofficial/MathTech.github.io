@@ -35,9 +35,9 @@ body {
   display: flex;
 }
 .menu-bar ul li {
-  /* width: 120px; */
+
   padding: 10px 30px;
-  /* text-align: center; */
+ 
   position: relative;
 }
 .menu-bar ul li a {
@@ -54,7 +54,7 @@ body {
   margin-left: 10px;
   padding-top: 3px;
 }
-/* dropdown menu style */
+
 .dropdown-menu {
   display: none;
 }
@@ -85,29 +85,29 @@ body {
 }
 .hero {
   position: relative;
-  height: 300px; /* Set the height of the container */
+  height: 300px; 
 }
 
 
 .background-image {
   height: calc(100vh - 80px);
-  background-image: url(picture/pic.png.png); /* Replace with the path to your background image */
-  background-size: cover; /* Adjust the size of the background image */
+  background-image: url(picture/pic.png.png); 
+  background-size: cover; 
   position: center;
-  z-index: 0; /* Ensure the background image is below the overlay */
+  z-index: 0; 
 }
 
-/* Add any other styles you need for your hero section */
 
 
 .text-box{
-  width: 80%;
+  
   color: #fff;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
+  
 }
 text-box h1{
   font: 300px;
