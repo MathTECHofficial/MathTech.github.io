@@ -91,7 +91,7 @@ body {
 
 .background-image {
   height: calc(100vh - 80px);
-  background-image: url(pic.png.png); /* Replace with the path to your background image */
+  background-image: url(picture/pic.png.png); /* Replace with the path to your background image */
   background-size: cover; /* Adjust the size of the background image */
   position: center;
   z-index: 0; /* Ensure the background image is below the overlay */
