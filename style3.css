@@ -1,6 +1,6 @@
 .background-image {
     height: calc(100vh - 80px);
-    background-image: url(picture/logocon.jpeg); 
+    background-image: url(picture/logohome.jpeg); 
     background-size: cover; 
     position: center;
     left: 80%;
